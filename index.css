@@ -1,0 +1,12 @@
+.close {
+    margin-left: 40px;
+    cursor: pointer;
+}
+.close:hover{
+    color: red;
+}
+li{
+width: 60px;
+padding: 10px;
+
+}

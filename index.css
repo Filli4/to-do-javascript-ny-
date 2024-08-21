@@ -1,4 +1,19 @@
+*{
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+    padding: 1%;
+}
+
+.container{
+    background-color: beige;
+    width: fit-content;
+}
+
+
+
 .close {
+    width: 30px;
     margin-left: 40px;
     cursor: pointer;
 }
@@ -6,7 +21,11 @@
     color: red;
 }
 li{
-width: 60px;
-padding: 10px;
+    flex: content;
+    justify-self: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 15px;
+    padding: 10px;
 
 }
